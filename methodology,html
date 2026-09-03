@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Methodology — Thought Architecture</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+
+<header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="methodology.html">Methodology</a>
+        <a href="services.html">Services</a>
+        <a href="identity.html">Identity</a>
+        <a href="contact.html">Contact</a>
+        <a href="de/methodology.html">Deutsch</a>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h1>Methodology</h1>
+        <h2>Cognitive–Systemic Vulnerability Mapping (CSV‑Mapping)</h2>
+        <p>A deep audit of processes, workflows, cognitive load, culture, tools and risks.</p>
+
+        <h2>Hybrid Ecosystem Design</h2>
+        <p>Designing systems where people, AI and technology collaborate.</p>
+
+        <h2>Transformation & Implementation</h2>
+        <p>Clear, optimized and sustainable system transformation.</p>
+    </section>
+</main>
+
+<footer>
+    <p>© Thought Architecture</p>
+</footer>
+
+</body>
+</html>
